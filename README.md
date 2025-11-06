@@ -12,6 +12,8 @@ Documentation JS/DOM : [MDN](https://developer.mozilla.org/fr/)
 ### Changer la couleur du texte
 
 Faire dans la console les commandes suivantes :
+aMettreEnRouge = document.querySelector("a-mettre-en-rouge")
+aMettreEnRouge.style.color = "red"
 
 ![](/assets/img/changer-la-couleur-du-texte.png)
 
